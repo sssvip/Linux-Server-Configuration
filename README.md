@@ -40,7 +40,6 @@ AWS-Server: http://ec2-35-160-205-21.us-west-2.compute.amazonaws.com
 
 
 
-
 ## Step by Step
   1.Launch your Virtual Machine with your Udacity account and log in. 
 
