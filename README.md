@@ -1,5 +1,6 @@
 # Linux-Server-Configuration
-Linux Server Configuration Program for udacity FSND
+Linux Server Configuration Program for udacity FSND.
+
 Linux distribution on a virtual machine, prepared to host web applications, install updates and securing it from a number of attack vectors.
 ## Preview
 
