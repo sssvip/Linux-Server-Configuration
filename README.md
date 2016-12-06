@@ -43,7 +43,7 @@ AWS-Server: http://ec2-35-160-205-21.us-west-2.compute.amazonaws.com
 ## Step by Step
   1.Launch your Virtual Machine with your Udacity account and log in. 
 
-  You can manage your virtual server at: https://www.udacity.com/account#!/development_environment
+  You can manage your virtual server at: https://www.udacity.com/account#!/development_environment (you must a member in udacity nano degree)
   2.Create a new user named grader and grant this user sudo permissions.
 
   3.Update all currently installed packages.
